@@ -13,12 +13,12 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Rowdy"
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown", 6, "female", "brown", "calm",false);
 
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa", 9, "female", "brown", "calm",false);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa", 9, "male", "blue", "calm",false);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch", 3, "female", "brown", "calm",false);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 4, "female", "brown", "calm",false);
 
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Tabitha", 9, "female", "brown", "calm",false);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Tabitha", 9, "male", "brown", "calm",false);
 
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (null, 1, "female", "brown", "calm",false);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (null, 1, "female", "brown", "calm", true);
